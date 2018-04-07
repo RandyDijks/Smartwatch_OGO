@@ -7,3 +7,13 @@ c:\users\m-rodo\documents\visual studio 2017\Projects\Smartwatch_OGO\Smartwatch_
 c:\users\m-rodo\documents\visual studio 2017\Projects\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.csproj.GenerateResource.Cache
 c:\users\m-rodo\documents\visual studio 2017\Projects\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.exe
 c:\users\m-rodo\documents\visual studio 2017\Projects\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.pdb
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\bin\Debug\Smartwatch_OGO.exe.config
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\bin\Debug\Smartwatch_OGO.exe
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\bin\Debug\Smartwatch_OGO.pdb
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.Form1.resources
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.Properties.Resources.resources
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.csproj.GenerateResource.Cache
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.exe
+C:\Users\Randy\Documents\Smartwatch_OGO\Smartwatch_OGO\obj\Debug\Smartwatch_OGO.pdb
